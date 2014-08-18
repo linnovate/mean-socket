@@ -1,4 +1,4 @@
-'use strict';
+//'use strict'; //fix for safari
 
 angular.module('mean.mean-socket').directive('meanSocket', function(Global, MeanSocket) {
 	return {
